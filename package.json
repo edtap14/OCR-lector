@@ -6,9 +6,13 @@
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "jslib-html5-camera-photo": "^3.3.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-html5-camera-photo": "^1.5.11",
     "react-scripts": "5.0.1",
+    "react-webcam": "^7.0.1",
+    "tesseract.js": "^2.1.5",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -34,5 +38,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/react-html5-camera-photo": "^1.5.1"
   }
 }
